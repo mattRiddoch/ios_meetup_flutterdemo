@@ -52,7 +52,7 @@
 ---
 ### Widgets
 ##CupertinoButton
-```dart
+
 const CupertinoButton({
   @required this.child,
   this.padding,
@@ -63,5 +63,12 @@ const CupertinoButton({
   @required this.onPressed,
 }) : assert(pressedOpacity == null || (pressedOpacity >= 0.0 && pressedOpacity <= 1.0));
 ```
-
+```dart
+new CupertinoButton(
+   child: const Text('Cupertino Button'),
+      onPressed: () {
+        setState(() { _pressedCount += 1; });
+      }
+),
+```
 ---
