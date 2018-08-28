@@ -4,11 +4,13 @@
 
 ---
 
-### Flux Design
+### Primary Features
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Cross platform
+- Fast: 60 fps
+- Uses rendering engine written in c++, single view.
+- Flutter framework written in dart
+- Open source
 
 ---
 
