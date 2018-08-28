@@ -52,7 +52,6 @@
 ---
 ### Widgets
 CupertinoButton
-![button One](https://flutter.io/images/widget-catalog/cupertino-button.png)
 ```dart
 const CupertinoButton({
   @required this.child,
@@ -75,7 +74,6 @@ new CupertinoButton(
 ---
 ### Widgets
 RaisedButton
-![button Two](https://cdn-images-1.medium.com/max/1600/1*y7CDp3vsTrPg1ZXTg7thnw.gif)
 ```dart
 const RaisedButton({
   Key key,
