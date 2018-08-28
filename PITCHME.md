@@ -6,12 +6,23 @@
 
 ### Primary Features
 
-- Cross platform
-- Fast: 60 fps
-- Uses rendering engine written in c++, single view.
-- Flutter framework written in dart
-- Open source
+- Cross platform.
+- Fast: 60 fps.
+- Uses rendering engine written in C++, single view.
+- Flutter framework written in dart.
+- Open source.
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### Flutter vs. Others
+
+- Not a faceoff.
+- Web tech, hybrid. (performance)
+- Native wrapping. (interop bridge, map to 2 platforms)
+- Full stack rendering.
+
+---
+
+### Unified UI
+
+---
