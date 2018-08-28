@@ -26,7 +26,7 @@
 
 ### WebViews
 
-![WebViews](https://cdn-images-1.medium.com/max/800/1*DXsvg0ir2nvYOTiUpp9KJw.png)
+![WebViews](https://cdn-images-1.medium.com/max/800/1*kxf6pHPvCeqmy-bdCqkHFA.png)
 
 ---
 
