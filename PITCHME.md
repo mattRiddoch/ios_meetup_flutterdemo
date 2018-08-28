@@ -4,6 +4,10 @@
 
 ---
 
+![XKCD](https://imgs.xkcd.com/comics/standards.png)
+
+---
+
 ### Primary Features
 
 - Cross platform.
