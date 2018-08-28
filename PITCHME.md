@@ -23,6 +23,24 @@
 
 ---
 
+### OEM SDKs
+
+![OEM SDKs](https://cdn-images-1.medium.com/max/800/1*DXsvg0ir2nvYOTiUpp9KJw.png)
+
+---
+
+### WebViews
+
+![WebViews](https://cdn-images-1.medium.com/max/800/1*DXsvg0ir2nvYOTiUpp9KJw.png)
+
+---
+
+### Reactive Views
+
+![Reactive Views](https://cdn-images-1.medium.com/max/800/1*8ugYUcmOYnoDx7d99qkEjQ.png)
+
+---
+
 ### Unified UI
 
 ![UI One](https://cdn-images-1.medium.com/max/600/1*xIdaloHvQPE78oAXLJ7Rzg.png)
@@ -50,8 +68,13 @@
 ![UI Seven](https://cdn-images-1.medium.com/max/400/1*jSlI0OpsEEqomXhgEbZNTA.png) ![UI Eight](https://cdn-images-1.medium.com/max/400/1*eKLcIR16WZCNmwFcBzL8Zw.png)
 
 ---
-### Widgets
-CupertinoButton
+
+### Widgets in action
+
+![action](https://cdn-images-1.medium.com/max/600/0*XaqUM2laHn4N9aGv.)
+
+---
+### Widgets - CupertinoButton
 ```dart
 const CupertinoButton({
   @required this.child,
@@ -64,7 +87,7 @@ const CupertinoButton({
 }) : assert(pressedOpacity == null || (pressedOpacity >= 0.0 && pressedOpacity <= 1.0));
 ```
 ---
-### CupertinoButton example
+### CupertinoButton - example
 ```dart
 new CupertinoButton(
    child: const Text('Cupertino Button'),
@@ -74,8 +97,7 @@ new CupertinoButton(
 ),
 ```
 ---
-### Widgets
-RaisedButton
+### Widget - RaisedButton
 ```dart
 const RaisedButton({
   Key key,
