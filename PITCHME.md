@@ -51,7 +51,8 @@
 
 ---
 ### Widgets
-##CupertinoButton
+CupertinoButton
+![button One](https://flutter.io/images/widget-catalog/cupertino-button.png)
 ```dart
 const CupertinoButton({
   @required this.child,
@@ -69,6 +70,47 @@ new CupertinoButton(
       onPressed: () {
         setState(() { _pressedCount += 1; });
       }
+),
+```
+---
+### Widgets
+RaisedButton
+![button Two](https://cdn-images-1.medium.com/max/1600/1*y7CDp3vsTrPg1ZXTg7thnw.gif)
+```dart
+const RaisedButton({
+  Key key,
+  @required this.onPressed,
+  this.onHighlightChanged,
+  this.textTheme,
+  this.textColor,
+  this.disabledTextColor,
+  this.color,
+  this.disabledColor,
+  this.highlightColor,
+  this.splashColor,
+  this.colorBrightness,
+  this.elevation: 2.0,
+  this.highlightElevation: 8.0,
+  this.disabledElevation: 0.0,
+  this.padding,
+  this.shape,
+  this.animationDuration: kThemeChangeDuration,
+  this.child,
+}) : assert(elevation != null),
+     assert(highlightElevation != null),
+     assert(disabledElevation != null),
+     assert(animationDuration != null),
+     super(key: key);
+```
+```dart
+new RaisedButton(
+  child: const Text('Connect with Twitter'),
+  color: Theme.of(context).accentColor,
+  elevation: 4.0,
+  splashColor: Colors.blueGrey,
+  onPressed: () {
+    // Perform some action
+  },
 ),
 ```
 ---
