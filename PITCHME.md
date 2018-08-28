@@ -16,7 +16,6 @@
 
 ### Flutter vs. Others
 
-- Not a faceoff.
 - Web tech, hybrid. (performance)
 - Native wrapping. (interop bridge, map to 2 platforms)
 - Full stack rendering.
@@ -39,6 +38,11 @@
 
 ![Reactive Views](https://cdn-images-1.medium.com/max/800/1*8ugYUcmOYnoDx7d99qkEjQ.png)
 
+---
+
+### Flutter/native interop
+
+![Flutter/native interop](https://cdn-images-1.medium.com/max/800/1*UpoHX3az39ZqkFwBr_gndA.png)
 ---
 
 ### Unified UI
