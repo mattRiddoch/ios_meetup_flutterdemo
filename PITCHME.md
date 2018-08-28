@@ -14,14 +14,6 @@
 
 ---
 
-### Flutter vs. Others
-
-- Web tech, hybrid. (performance)
-- Native wrapping. (interop bridge, map to 2 platforms)
-- Full stack rendering.
-
----
-
 ### OEM SDKs
 
 ![OEM SDKs](https://cdn-images-1.medium.com/max/800/1*DXsvg0ir2nvYOTiUpp9KJw.png)
