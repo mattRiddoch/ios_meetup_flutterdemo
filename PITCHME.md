@@ -63,6 +63,8 @@ const CupertinoButton({
   @required this.onPressed,
 }) : assert(pressedOpacity == null || (pressedOpacity >= 0.0 && pressedOpacity <= 1.0));
 ```
+---
+### CupertinoButton example
 ```dart
 new CupertinoButton(
    child: const Text('Cupertino Button'),
@@ -100,6 +102,8 @@ const RaisedButton({
      assert(animationDuration != null),
      super(key: key);
 ```
+---
+### RaisedButton example
 ```dart
 new RaisedButton(
   child: const Text('Connect with Twitter'),
