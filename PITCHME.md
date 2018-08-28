@@ -52,7 +52,7 @@
 ---
 ### Widgets
 ##CupertinoButton
-
+```dart
 const CupertinoButton({
   @required this.child,
   this.padding,
