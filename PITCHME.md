@@ -43,6 +43,13 @@
 ### Flutter/native interop
 
 ![Flutter/native interop](https://cdn-images-1.medium.com/max/800/1*UpoHX3az39ZqkFwBr_gndA.png)
+
+---
+
+### Flutter stack
+
+![Flutter stack](https://cdn-images-1.medium.com/max/800/0*NeeJq8PwkiTj8eMf.)
+
 ---
 
 ### Unified UI
